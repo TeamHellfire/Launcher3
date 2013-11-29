@@ -18,6 +18,7 @@
     <!-- Far-left screen [0] -->
 
     <!-- Left screen [1] -->
+
     <appwidget
         launcher:packageName="com.android.settings"
         launcher:className="com.android.settings.widget.SettingsAppWidgetProvider"
@@ -29,12 +30,12 @@
 
     <!-- Middle screen [2] -->
     <appwidget
-        launcher:packageName="com.android.deskclock"
-        launcher:className="com.android.alarmclock.AnalogAppWidgetProvider"
+        launcher:packageName="com.cyanogenmod.lockclock"
+        launcher:className="com.cyanogenmod.lockclock.ClockWidgetProvider"
         launcher:screen="2"
-        launcher:x="1"
+        launcher:x="0"
         launcher:y="0"
-        launcher:spanX="2"
+        launcher:spanX="4"
         launcher:spanY="2" />
     <favorite
         launcher:packageName="com.android.camera"
