@@ -21,7 +21,11 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name">Hellfire Launcher</string>
+    <string name="application_name" translatable="false">Hellfire Catapult</string>
+    <!-- Application copyright -->
+    <string name="application_copyright">Copyright \u00A9 Team HellFire 2013</string>
+    <!-- Application version -->
+    <string name="application_version">0.1</string>
     <!-- Accessibility-facing application name -->
     <string name="home">Home</string>
     <!-- Name for all applications running as this uid. -->
