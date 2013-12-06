@@ -171,7 +171,7 @@
         launcher:x="4"
         launcher:y="0" />
     <favorite
-        launcher:packageName="com.android.gallery3d"
+        launcher:packageName="com.android.camera2"
         launcher:className="com.android.camera.CameraLauncher"
         launcher:container="-101"
         launcher:screen="5"
